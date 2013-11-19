@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCLI", "IoCLI\IoCLI.csproj", "{993B6039-3AAF-41CD-879A-FBF5EF258B48}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoVM", "IoVM\IoVM.csproj", "{9AE63A9D-62FF-4C6D-B561-ABBD072ABC0E}"
